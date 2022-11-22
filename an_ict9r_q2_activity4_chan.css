@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Rainbow</title>
+<style type="text/css">
+<!--
+p {
+	color: black;
+	font-weight: bold italic;
+	font-size: 30;
+}
+-->
+</style>
+</head>
+<body>
+<p style="background-color: green; font-family: Monospace Corsiva;">GREEN</p>
+<p style="background-color: red; font-family: Monospace Corsiva;">RED</p>
+<p style="background-color: orange; font-family: Monospace Corsiva;">ORANGE</p>
+<p style="background-color: yellow; font-family: Monospace Corsiva;">YELLOW</p>
+<p style="background-color: blue; font-family: Monospace Corsiva;">BLUE</p>
+<p style="background-color: indigo; font-family: Monospace Corsiva;">INDIGO</p>
+<p style="background-color: violet; font-family: Monospace Corsiva;">VIOLET</p>
+</body>
+</html>
